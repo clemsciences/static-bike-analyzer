@@ -23,9 +23,9 @@
     <string name="received_data">Received Data:</string>
     <string name="send_data">Send Data</string>
     <string name="nom_developpeur1">Vincent</string>
-    <string name="scan">Scan</string>
-    <string name="send_data">Send Data</string>
-    <string name="received_data">Received Data:</string>
+    <!--<string name="scan">Scan</string>-->
+    <!--<string name="send_data">Send Data</string>-->
+    <!--<string name="received_data">Received Data:</string>-->
     <string name="vincent">Vincent</string>
     <string name="scan">Scan</string>
 </resources>
